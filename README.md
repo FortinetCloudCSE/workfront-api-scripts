@@ -1,7 +1,4 @@
-# Fortinet Template Repo for TECWorkshops
+# Workfront API Scripts
 
-## Prereqs
-  - Docker
- 
-## How to use this repo:
-https://fortinetcloudcse.github.io/UserRepo/index.html
+Scripts for working with the Workfront API.
+
